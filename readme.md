@@ -5,7 +5,7 @@ Allows sending messages in ChatGPT using the **Ctrl + Enter** shortcut on small 
 
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
-2. Click [here](https://raw.githubusercontent.com/你的GitHub帳號/你的repo/main/script.js) to install the script (replace with the actual GitHub repository path)
+2. Click [here](https://greasyfork.org/zh-TW/scripts/534152-chatgpt-ctrl-enter-fix) to install the script
 3. Reload the ChatGPT page
 
 ## Usage
